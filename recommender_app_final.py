@@ -10,7 +10,7 @@ import joblib
 import numpy as np
 import pandas as pd
 from PIL import Image
-import plotly.graph_objects as go
+from plotly import graph_objs as go
 
 st.set_page_config(page_title='Crop Recommendation Model',layout='wide')
 
